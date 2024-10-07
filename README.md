@@ -21,11 +21,21 @@ The fraud detection system is designed to identify fraudulent transactions using
 
 
 ## Screenshots
+
 ![Example screenshot](ScreenShots/Raw_Data.PNG)
+Raw Data (Taken form kaggle : "https://www.kaggle.com/datasets/ealaxi/paysim1" )
+
 ![Example screenshot](ScreenShots/shape_Data.PNG)
+Shape of the Data
+
 ![Example screenshot](ScreenShots/describe_data.PNG)
+Description of Data
+
 ![Example screenshot](ScreenShots/API_test.png)
+Test of API : The request 
+
 ![Example screenshot](ScreenShots/resultat_API.png)
+Test of API : The response 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
